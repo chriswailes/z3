@@ -72,7 +72,7 @@ cmake -G "Unix Makefiles" ../
 make -j4 # Replace 4 with an appropriate number
 ```
 
-Note that on some platforms "Unix Makesfiles" is the default generator so on those
+Note that on some platforms "Unix Makefiles" is the default generator so on those
 platforms you don't need to pass ``-G "Unix Makefiles"`` command line option to
 ``cmake``.
 
